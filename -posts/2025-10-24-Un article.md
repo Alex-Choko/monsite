@@ -1,5 +1,5 @@
 ---
-layout post
+layou post
 title: test de moi
 subtitle: un petit test pour voir
 published: true
